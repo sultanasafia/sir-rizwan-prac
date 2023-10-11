@@ -1,0 +1,20 @@
+section {
+    display: flex;
+    justify-content:space-between;
+    max-width: 1000px;
+    margin: 0 auto;
+    margin-top: 4rem;
+    
+    text-align: center;
+
+
+}
+button img{
+    width: 40px;
+}
+.abc{
+    text-decoration:underline wavy;
+    font-weight: 400;
+    font-size: 32px;
+    color:rgb(231,44,47);
+}
